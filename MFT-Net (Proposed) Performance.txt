@@ -1,0 +1,19 @@
+MFT-Net (Proposed) Performance:
+  MSE: 0.4524
+  MAE: 0.4997
+  R²:  0.8648
+
+Random Forest Performance:
+  MSE: 0.9075
+  MAE: 0.6126
+  R²:  0.2746
+
+LSTM Performance:
+  MSE: 0.9847
+  MAE: 0.8379
+  R²:  0.0530
+
+CNN Performance:
+  MSE: 0.9272
+  MAE: 0.8606
+  R²:  0.0191
